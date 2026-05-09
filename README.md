@@ -47,7 +47,7 @@ npm -v
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/tree-visualizer.git
+git clone https://github.com/SuzalKori/tree-visualizer.git
 cd tree-visualizer
 ```
 
